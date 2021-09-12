@@ -1,0 +1,5 @@
+[
+    {"nama":"Nasi Goreng", "harga":"Rp.15.000,00", "isPriceBold":"True","image":"./assets/img/nasi goreng.jpg", "isads":"False"},
+    {"nama":"Sate", "harga":"Rp.18.000,00", "isPriceBold":"True", "image":"./assets/img/sate.jpg", "isads":"False"},
+    {"nama":"Bakso", "harga":"Rp.12.000,00", "isPriceBold":"True", "image":"./assets/img/bakso.jpg", "isads":"False"}
+]
